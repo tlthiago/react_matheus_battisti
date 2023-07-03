@@ -1,7 +1,6 @@
 import Frase from './Frase';
 
 function HelloWorld() {
-
     return (
         <div>
             <Frase />
